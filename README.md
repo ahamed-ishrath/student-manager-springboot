@@ -1,7 +1,6 @@
 # Student Registration System
 
 A Spring Boot CRUD web application for registering students.
-Built for COSC 32133 / BECS 32263 Lab Sheet 04.
 
 ## Features
 
@@ -33,7 +32,7 @@ Built for COSC 32133 / BECS 32263 Lab Sheet 04.
 ```
    (On Windows: `mvnw.cmd spring-boot:run`)
    You can also run `StudentManagerApplication.java` from VS Code.
-4. Open http://localhost:8081 in your browser.
+4. Open http://localhost:8081 in your browser.(or 8080 if it is available)
 
 ## H2 Console
 
